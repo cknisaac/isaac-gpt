@@ -1,1 +1,2 @@
-(11/3/2026) continue on the video from 00:42:13 version 1: averaging past context with for loops, the weakest form of aggregation
+(13/3/2026) 00:23:50 Byte Pair Encoding (BPE) algorithm walkthrough; working on implementation of a GPT tokenizer as demostrated https://www.youtube.com/watch?v=zduSFxRajkE
+
